@@ -1,5 +1,3 @@
-## GT Account: mwhite315
-## CS 7641: Machine Learning
 ## Unsupervised Learning and Dimensionality Reduction
 
 # Python Library Dependencies
